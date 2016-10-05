@@ -73,8 +73,8 @@ Since I am using [rawgit](http://rawgit.com/) as a CDN, specific versions can be
     
         var chartOptions = {
             title: "Element Density",
-            height: this.chartHeight,
-            width: this.chartWidth,
+            width: window.screen.width,
+            height: window.screen.height,
             legend: { position: 'top', maxLines: 3 },
             vAxis: {minValue: 0},
             animation:{
