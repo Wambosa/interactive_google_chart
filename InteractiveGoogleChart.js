@@ -1,6 +1,6 @@
-function InteractiveGraph(){}
+function InteractiveGoogleChart(){}
 
-InteractiveGraph.prototype = {
+InteractiveGoogleChart.prototype = {
 
     isChartReady: false,
     chartObj: null,
