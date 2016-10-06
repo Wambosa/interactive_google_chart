@@ -27,7 +27,7 @@ Since I am using [rawgit](http://rawgit.com/) as a CDN, specific versions can be
 ```
 
 
-## Example
+## Example.html
 ``` HTML
 <head>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
